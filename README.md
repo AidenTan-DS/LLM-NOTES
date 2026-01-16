@@ -15,7 +15,7 @@
 
 | Version | File | Description |
 |---------|------|-------------|
-| English | [`llm_notes_english.pdf`](./llm_notes_english.pdf) | Full PDF with watermark |
+| English | [`LLM NOTES.pdf`](./LLM NOTES.pdf) | Full PDF with watermark |
 
 
 ---
