@@ -15,9 +15,8 @@
 
 | Version | File | Description |
 |---------|------|-------------|
-| 🇺🇸 English | [`llm_notes_english.pdf`](./llm_notes_english.pdf) | Full PDF with watermark |
-| 🇨🇳 中文 | [`llm_complete_notes.pdf`](./llm_complete_notes.pdf) | 完整中文版 PDF |
-| 📄 LaTeX | [`llm_notes_english.tex`](./llm_notes_english.tex) | Source code |
+| English | [`llm_notes_english.pdf`](./llm_notes_english.pdf) | Full PDF with watermark |
+
 
 ---
 
@@ -766,37 +765,6 @@ Action 3: Finish["The population of Paris is approximately 2.1 million."]
 
 ---
 
-## 🛠️ Compile from Source
 
-### English Version (pdfLaTeX)
-```bash
-pdflatex llm_notes_english.tex
-pdflatex llm_notes_english.tex  # Run twice for TOC
-```
-
-### Chinese Version (XeLaTeX)
-```bash
-xelatex llm_complete_notes.tex
-xelatex llm_complete_notes.tex  # Run twice for TOC
-```
-
-Or use [Overleaf](https://www.overleaf.com).
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## 👤 Author
-
-**Aiden Tan**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/your-profile)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/your-username)
-
----
 
 ⭐ **If you find this helpful, please give it a star!**
